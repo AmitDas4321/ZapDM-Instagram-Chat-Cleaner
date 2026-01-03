@@ -32,11 +32,11 @@ All actions run **locally** — no tracking, no external servers, and no data sh
 Get the latest version of **ZapDM** from the **Chrome Web Store** or **GitHub Releases**.
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/" target="_blank">
+  <a href="https://chromewebstore.google.com/detail/lagbdfhkefpdbdbioiaahdnjojkdhopc" target="_blank">
     <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/AmitDas4321/ZapDM-Instagram-Chat-Cleaner/releases/download/v1.0.0/ZapDM.crx">
     <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
   </a>
 </p>
