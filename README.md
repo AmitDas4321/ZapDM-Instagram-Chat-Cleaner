@@ -90,9 +90,9 @@ Get the latest version of **ZapDM** from the **Chrome Web Store** or **GitHub Re
 
 <p align="center"><img src="screenshots/ZapDM_Requests.png" alt="Message Requests Cleanup" width="800"/></p>
 
-### ✨ Cleanup in Progress
+<!--### ✨ Cleanup in Progress
 
-<p align="center"><img src="screenshots/ZapDM_Progress.png" alt="Cleanup Progress" width="800"/></p>
+<p align="center"><img src="screenshots/ZapDM_Progress.png" alt="Cleanup Progress" width="800"/></p>-->
 
 ---
 
